@@ -1,3 +1,4 @@
+## Make a change
 ## Simple linear regression
 #' @title A simple function for testing
 #' @param formula A input formula
